@@ -1,9 +1,10 @@
 {
-  "homepage": "http://anshul456ch.github.io/codepen-clone",
   "name": "codepen-clone",
+  "homepage": "http://anshul456ch.github.io/codepen-clone",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "-": "0.0.1",
     "@fortawesome/fontawesome-svg-core": "^1.2.35",
     "@fortawesome/free-solid-svg-icons": "^5.15.3",
     "@fortawesome/react-fontawesome": "^0.1.14",
@@ -15,6 +16,7 @@
     "react-codemirror2": "^7.2.1",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
+    "save-dev": "0.0.1-security",
     "web-vitals": "^1.1.2"
   },
   "scripts": {
